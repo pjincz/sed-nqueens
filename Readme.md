@@ -3,7 +3,7 @@ sed-nqueens
 
 N Queens, implemented by sed.
 
-##Usage
+## Usage
 
     $ sed -f nqueens.sed
 
