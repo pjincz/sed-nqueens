@@ -1,5 +1,9 @@
-Usage
-=====
+sed-nqueens
+===========
+
+N Queens, implemented by sed.
+
+##Usage
 
     $ sed -f nqueens.sed
 
